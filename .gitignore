@@ -130,3 +130,6 @@ dmypy.json
 
 # Documentation
 doc/
+
+# Datasets de teste
+old/
